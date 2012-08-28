@@ -19,7 +19,7 @@
 		F9D76BC015ED0E5400D8134B /* emailz.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = emailz.c; sourceTree = "<group>"; };
 		F9D76BC115ED0E5400D8134B /* emailz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = emailz.h; sourceTree = "<group>"; };
 		F9D76BC215ED0E5400D8134B /* logger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = logger.h; sourceTree = "<group>"; };
-		F9D76BDD15ED0EEA00D8134B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		F9D76BDE15ED195400D8134B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 		F9D76BDC15ED0EDD00D8134B /* Documentation */ = {
 			isa = PBXGroup;
 			children = (
-				F9D76BDD15ED0EEA00D8134B /* README.md */,
+				F9D76BDE15ED195400D8134B /* README.md */,
 			);
 			name = Documentation;
 			sourceTree = "<group>";
